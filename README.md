@@ -49,8 +49,6 @@ You can view my CS50x certificate here:
 
 - 📄 [View Certificate (PDF)](./certificate.pdf)
 
-> 💡 Place your certificate files (PDF and/or image) in the root of this repository and rename them as shown above, or update the file paths accordingly.
-
 ---
 
 ## 🚀 Future Goals
